@@ -1,5 +1,7 @@
 # View Profile Photo
 
+![GitHub Badge](https://github.com/demargorn/view-profile-photo_react-redux-toolkit/actions/workflows/WORKFLOW-FILE/badge.svg)
+
 Разрабатываем отображение фото профиля пользователя на базе Redux Toolkit.
 
 ![start page](public/start.png)
