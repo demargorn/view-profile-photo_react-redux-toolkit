@@ -1,0 +1,1 @@
+:root{--margin: 10px}*{box-sizing:border-box}.app-container{display:flex;flex-direction:column;margin-top:var(--margin);border:1px solid black;border-radius:15px;max-width:706px}.input-file{margin-bottom:var(--margin)}.photo{width:220px;height:220px;border-radius:15px;margin-bottom:var(--margin);margin-right:var(--margin)}.photo:nth-child(3n+1){margin-right:0}
